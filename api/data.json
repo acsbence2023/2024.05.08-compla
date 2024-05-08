@@ -1,0 +1,25 @@
+{
+    "complains": [
+      {
+        "id": 1,
+        "description": "Rossz",
+        "complainant": "János Lajos",
+        "products": "Hűtő",
+        "type": "Külsőséges"
+      },
+      {
+        "id": 2,
+        "description": "Wifi hiba",
+        "complainant": "Lakatos Laura",
+        "products": "Laptop",
+        "type": "Ismeretlen"
+      },
+      {
+        "id": 3,
+        "description": "Nem kapcsol be",
+        "complainant": "Kis Erika",
+        "products": "Telefon",
+        "type": "Kérdéses"
+      }
+    ]
+  }
